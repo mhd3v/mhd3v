@@ -10,7 +10,7 @@ I'm a life long learner and a tinkerer who can't seem to get enough of JavaScrip
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhd3v&layout=compact&langs_count=8&count_private=true"/>
 </div>
 
-## 👨🏽‍💻 Programming Languages I work on
+## 👨🏽‍💻 Languages I work on
 
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">&nbsp;&nbsp;
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
