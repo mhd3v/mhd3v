@@ -1,8 +1,13 @@
 # Hey there 👋, I'm Mahad.
 
-<a href="https://www.linkedin.com/in/mhd3v/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p>
+  <a href="https://mhd3v.com">Portfolio</a> •
+  <a href="http://resume.mhd3v.com">Resume</a> •
+  <a href="https://www.linkedin.com/in/mhd3v/">LinkedIn</a> •
+  <a href="https://twitter.com/mhd3v">Twitter</a>
+</p>
 
-I'm a life long learner and a tinkerer who can't seem to get enough of JavaScript. I'm currrently working as a Software Engineer @ Retailo, where I help revolutionize the ecommerce chain for SMEs in the MENAP region. 
+A life long learner and a tinkerer who can't seem to get enough of computers. I'm currrently working as a Software Engineer @ <a href="https://retailo.co/">Retailo</a>, where I help revolutionize the B2B supply chain for SMEs in the MENAP region. 
 
 ## My stats on Github
  <div>
