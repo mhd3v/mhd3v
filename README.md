@@ -4,7 +4,7 @@
   <a href="https://mhd3v.com">Portfolio</a> •
   <a href="http://resume.mhd3v.com">Resume</a> •
   <a href="https://www.linkedin.com/in/mhd3v/">LinkedIn</a> •
-  <a href="https://www.gitlab.com/mahad.aamir">Gitlab</a> •
+  <a href="https://www.gitlab.com/mhd3v">Gitlab</a> •
   <a href="https://twitter.com/mhd3v">Twitter</a>
 </p>
 
