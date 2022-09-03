@@ -8,7 +8,7 @@
   <a href="https://twitter.com/mhd3v">Twitter</a>
 </p>
 
-A life long learner and a tinkerer who can't seem to get enough of computers. I'm currrently working as a Software Engineer @ <a href="https://retailo.co/">Retailo</a>, where I help revolutionize the B2B supply chain for SMEs in the MENAP region. 
+A life long learner and a tinkerer who can't seem to get enough of computers. I'm currrently working as a Backend Engineer @ <a href="https://ostrom.de/">Ostrom</a>, where I help digitize the energy supply chain in Germany. 
 
 ## My stats on Github
  <div>
