@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Mahad.
+# Hey there, I'm Mahad.
 
 <p>
   <a href="https://mhd3v.com">Portfolio</a> •
