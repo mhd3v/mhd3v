@@ -7,12 +7,6 @@
 
 A lifelong learner and a tinkerer who can't seem to get enough of computers. 
 
-## My stats on Github
- <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhd3v&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhd3v&layout=compact&langs_count=8&count_private=true"/>
-</div>
-
 # My tech stack
 
 
