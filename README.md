@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/mhd3v/">LinkedIn</a>
 </p>
 
-A life long learner and a tinkerer who can't seem to get enough of computers. I'm currrently working as a Backend Engineer @ <a href="https://ostrom.de/">Ostrom</a>, where I help digitize the energy supply chain in Germany. 
+A lifelong learner and a tinkerer who can't seem to get enough of computers. 
 
 ## My stats on Github
  <div>
